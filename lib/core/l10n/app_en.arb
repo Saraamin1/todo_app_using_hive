@@ -1,0 +1,17 @@
+{
+    "search":"Search",
+    "clear":"Do You Want To Delete All Todos ?",
+    "ok":"Ok",
+    "cancel":"Cancel",
+    "add":"Add",
+    "edit":"Edit",
+    "addQuestion":"What do you want to do ?",
+    "validator":"Enter todo",
+    "theme":"Theme",
+    "lang":"Languge",
+    "settings":"Settings",
+        "addTask":"Add Task",
+        "todo":"ToDo"
+
+
+}
